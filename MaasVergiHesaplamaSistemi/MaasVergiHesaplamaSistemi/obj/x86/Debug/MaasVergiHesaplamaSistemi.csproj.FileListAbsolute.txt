@@ -1,0 +1,8 @@
+c:\users\hp\documents\visual studio 2010\Projects\MaasVergiHesaplamaSistemi\MaasVergiHesaplamaSistemi\bin\Debug\MaasVergiHesaplamaSistemi.exe
+c:\users\hp\documents\visual studio 2010\Projects\MaasVergiHesaplamaSistemi\MaasVergiHesaplamaSistemi\bin\Debug\MaasVergiHesaplamaSistemi.pdb
+c:\users\hp\documents\visual studio 2010\Projects\MaasVergiHesaplamaSistemi\MaasVergiHesaplamaSistemi\obj\x86\Debug\MaasVergiHesaplamaSistemi.Form1.resources
+c:\users\hp\documents\visual studio 2010\Projects\MaasVergiHesaplamaSistemi\MaasVergiHesaplamaSistemi\obj\x86\Debug\MaasVergiHesaplamaSistemi.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2010\Projects\MaasVergiHesaplamaSistemi\MaasVergiHesaplamaSistemi\obj\x86\Debug\MaasVergiHesaplamaSistemi.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2010\Projects\MaasVergiHesaplamaSistemi\MaasVergiHesaplamaSistemi\obj\x86\Debug\MaasVergiHesaplamaSistemi.exe
+c:\users\hp\documents\visual studio 2010\Projects\MaasVergiHesaplamaSistemi\MaasVergiHesaplamaSistemi\obj\x86\Debug\MaasVergiHesaplamaSistemi.pdb
+C:\Users\hp\documents\visual studio 2010\Projects\MaasVergiHesaplamaSistemi\MaasVergiHesaplamaSistemi\obj\x86\Debug\MaasVergiHesaplamaSistemi.csprojResolveAssemblyReference.cache
