@@ -1,0 +1,10 @@
+c:\users\hp\documents\visual studio 2010\Projects\gitignoreGeneretorbyBurakYabgu\gitignoreGeneretorbyBurakYabgu\bin\Debug\gitignoreGeneretorbyBurakYabgu.exe
+c:\users\hp\documents\visual studio 2010\Projects\gitignoreGeneretorbyBurakYabgu\gitignoreGeneretorbyBurakYabgu\bin\Debug\gitignoreGeneretorbyBurakYabgu.pdb
+c:\users\hp\documents\visual studio 2010\Projects\gitignoreGeneretorbyBurakYabgu\gitignoreGeneretorbyBurakYabgu\obj\x86\Debug\gitignoreGeneretorbyBurakYabgu.Form1.resources
+c:\users\hp\documents\visual studio 2010\Projects\gitignoreGeneretorbyBurakYabgu\gitignoreGeneretorbyBurakYabgu\obj\x86\Debug\gitignoreGeneretorbyBurakYabgu.gitignoreReader.resources
+c:\users\hp\documents\visual studio 2010\Projects\gitignoreGeneretorbyBurakYabgu\gitignoreGeneretorbyBurakYabgu\obj\x86\Debug\gitignoreGeneretorbyBurakYabgu.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2010\Projects\gitignoreGeneretorbyBurakYabgu\gitignoreGeneretorbyBurakYabgu\obj\x86\Debug\gitignoreGeneretorbyBurakYabgu.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2010\Projects\gitignoreGeneretorbyBurakYabgu\gitignoreGeneretorbyBurakYabgu\obj\x86\Debug\gitignoreGeneretorbyBurakYabgu.exe
+c:\users\hp\documents\visual studio 2010\Projects\gitignoreGeneretorbyBurakYabgu\gitignoreGeneretorbyBurakYabgu\obj\x86\Debug\gitignoreGeneretorbyBurakYabgu.pdb
+C:\Users\hp\documents\visual studio 2010\Projects\gitignoreGeneretorbyBurakYabgu\gitignoreGeneretorbyBurakYabgu\obj\x86\Debug\gitignoreGeneretorbyBurakYabgu.csprojResolveAssemblyReference.cache
+C:\Users\hp\documents\visual studio 2010\Projects\gitignoreGeneretorbyBurakYabgu\gitignoreGeneretorbyBurakYabgu\obj\x86\Debug\gitignoreGeneretorbyBurakYabgu.settingsENV.resources
